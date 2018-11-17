@@ -1,0 +1,26 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "kdh",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kongdehua/ts-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kongdehua/ts-book/issues"
+  },
+  "homepage": "https://github.com/kongdehua/ts-book#readme",
+  "devDependencies": {
+    "tslint": "^5.11.0"
+  },
+  "dependencies": {
+    "react": "^16.6.3"
+  }
+}
